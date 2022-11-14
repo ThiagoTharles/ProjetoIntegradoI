@@ -1,4 +1,4 @@
-package main.java.com.takeiteasy.takeiteasy.modules.activity;
+package main.java.br.com.takeiteasy.takeiteasy.modules.activity;
 
 import java.util.*;
 

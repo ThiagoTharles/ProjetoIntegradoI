@@ -1,4 +1,4 @@
-package main.java.com.takeiteasy.takeiteasy.modules.clock;
+package main.java.br.com.takeiteasy.takeiteasy.modules.clock;
 
 public class Clock {
     int hour = 0;

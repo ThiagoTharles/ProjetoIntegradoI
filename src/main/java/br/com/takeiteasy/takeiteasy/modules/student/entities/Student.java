@@ -1,4 +1,4 @@
-package main.java.com.takeiteasy.takeiteasy.modules.student.entities;
+package main.java.br.com.takeiteasy.takeiteasy.modules.student.entities;
 
 public class Student {
     private String name;
