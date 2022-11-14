@@ -1,5 +1,7 @@
 package main.java.br.com.takeiteasy.takeiteasy.modules.student.entities;
 
+import javax.persistence.Entity;
+
 public class Student {
     private String name;
     private Long tokken;
