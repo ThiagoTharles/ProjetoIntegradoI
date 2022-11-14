@@ -1,10 +1,13 @@
+package main.java.com.takeiteasy.takeiteasy.modules.activity;
+
 import java.util.*;
+
 public class ControladorActivity {
-  
+
   private List<Activity> activityLista;
-  
-  ControladorActivity(){
-    activityLista=new ArrayList<Activity>();
+
+  ControladorActivity() {
+    activityLista = new ArrayList<Activity>();
   }
 
   /**
@@ -30,7 +33,7 @@ public class ControladorActivity {
     try {
       activityLista.set(activityLista.indexOf(activity), activity);
     } catch (Exception e) {
-      
+
     }
   }
 }

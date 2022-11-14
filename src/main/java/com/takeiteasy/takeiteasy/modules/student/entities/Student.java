@@ -1,7 +1,9 @@
+package main.java.com.takeiteasy.takeiteasy.modules.student.entities;
+
 public class Student {
     private String name;
     private Long tokken;
-    
+
     public Student(String name) {
         this.name = name;
     }
@@ -9,12 +11,15 @@ public class Student {
     public String getName() {
         return name;
     }
+
     public void setName(String name) {
         this.name = name;
     }
+
     public Long getTokken() {
         return tokken;
     }
+
     public void setTokken(Long tokken) {
         this.tokken = tokken;
     }
