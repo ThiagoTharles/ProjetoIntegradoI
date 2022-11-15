@@ -1,4 +1,4 @@
-package test.java.br.com.takeiteasy.takeiteasy;
+package br.com.takeiteasy.takeiteasy;
 
 public class takeiteasyApplicationTests {
 

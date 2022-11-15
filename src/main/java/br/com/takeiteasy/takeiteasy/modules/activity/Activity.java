@@ -1,4 +1,9 @@
 package br.com.takeiteasy.takeiteasy.modules.activity;
+<<<<<<< HEAD
+=======
+
+import br.com.takeiteasy.takeiteasy.modules.clock.Timer;
+>>>>>>> 59cc2dc1eec35f7e8a78740a0f96fc129e5f8bd5
 
 import java.util.Timer;
 /**

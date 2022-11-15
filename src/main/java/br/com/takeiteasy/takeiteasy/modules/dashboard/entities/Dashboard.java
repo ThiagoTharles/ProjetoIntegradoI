@@ -1,6 +1,9 @@
-package main.java.br.com.takeiteasy.takeiteasy.modules.dashboard.entities;
+package br.com.takeiteasy.takeiteasy.modules.dashboard.entities;
 
 import java.util.List;
+
+import br.com.takeiteasy.takeiteasy.modules.activity.Activity;
+import br.com.takeiteasy.takeiteasy.modules.student.entities.Student;
 
 public class Dashboard {
     private Student student;
