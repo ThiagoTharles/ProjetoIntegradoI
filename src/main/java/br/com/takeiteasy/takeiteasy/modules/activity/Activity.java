@@ -1,5 +1,7 @@
 package br.com.takeiteasy.takeiteasy.modules.activity;
 
+import br.com.takeiteasy.takeiteasy.modules.clock.Timer;
+
 public class Activity {
     private String name;
     private Double hourAllocated;
