@@ -1,4 +1,4 @@
-package main.java.br.com.takeiteasy.takeiteasy.modules.student.entities;
+package br.com.takeiteasy.takeiteasy.modules.student.entities;
 
 import javax.persistence.Entity;
 

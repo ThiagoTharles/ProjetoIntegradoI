@@ -1,4 +1,4 @@
-package main.java.br.com.takeiteasy.takeiteasy.modules.dashboard.entities;
+package br.com.takeiteasy.takeiteasy.modules.dashboard.entities;
 
 import java.util.List;
 
