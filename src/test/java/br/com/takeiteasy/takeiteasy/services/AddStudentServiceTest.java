@@ -8,4 +8,5 @@ public class AddStudentServiceTest {
     public void should_be_able_to_create_a_new_course() {
 
     }
+    
 }

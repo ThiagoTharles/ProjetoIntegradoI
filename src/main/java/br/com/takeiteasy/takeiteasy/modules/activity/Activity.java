@@ -1,5 +1,10 @@
-package main.java.br.com.takeiteasy.takeiteasy.modules.activity;
+package br.com.takeiteasy.takeiteasy.modules.activity;
 
+import java.util.Timer;
+/**
+ * THis represents the model Activity 
+ * allowing to retrieve and modify the data of model
+ */
 public class Activity {
     private String name;
     private Double hourAllocated;

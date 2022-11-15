@@ -1,12 +1,12 @@
-package main.java.br.com.takeiteasy.takeiteasy.modules.activity;
+package br.com.takeiteasy.takeiteasy.modules.activity;
 
 import java.util.*;
 
-public class ControladorActivity {
+public class ControllerActivity {
 
   private List<Activity> activityLista;
 
-  ControladorActivity() {
+  ControllerActivity() {
     activityLista = new ArrayList<Activity>();
   }
 
@@ -16,7 +16,13 @@ public class ControladorActivity {
   public List<Activity> getActivity() {
     return activityLista;
   }
-
+  //CREATE A INTERFACEACTIVITY TO USE THIS FOLLOWING
+  public String toString() {
+    for (Activity activity : activityLista) {
+      
+    }
+    return null;
+  }
   public void addActivity(Activity activity) {
     this.activityLista.add(activity);
   }
